@@ -1,4 +1,4 @@
-name: Pylint
+name: Pylint, Docker Image CI
 
 on:
   push:
